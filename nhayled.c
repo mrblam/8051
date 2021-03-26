@@ -15,4 +15,5 @@ void delay_ms(unsigned int t){
          delay_ms(500);
      }
      
- }
+ }//bai vi du
+ 
